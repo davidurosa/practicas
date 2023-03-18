@@ -142,7 +142,7 @@ main{
 
 main .container{
     display: grid;
-    grid-template-columns: 18vw auto  20vw;
+    grid-template-columns: 18vw auto  25vw;
     column-gap: 2rem;
     position: relative;
 }
@@ -539,6 +539,7 @@ main .container .left .profile{
 
     .right .request .actions{
         display: flex;
+       
         gap: 1rem;
     }
 
@@ -547,8 +548,8 @@ main .container .left .profile{
     /* =================temas ======================= */
    .cuztomize-theme{
     background: rgba(255, 255, 255, 0.5);
-    width: 100vw;
-    height: 100vh;
+    width: 100%;
+    height: 100%;
     position: fixed;
     top: 0;
     left: 0;
@@ -709,6 +710,9 @@ main .container .left .profile{
         .left{
             width: 5rem;
             z-index: 5;
+        }
+        .right .request .actions{
+            flex-direction: column;
         }
 
         main .container .left .profile{
