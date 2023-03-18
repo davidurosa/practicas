@@ -320,22 +320,22 @@ main .container .left .profile{
 
 
     .middle .stories .story:nth-child(1){
-        background: url(./image/recurdo-yo.jpg) no-repeat center center/cover;
+        background: url(./image/story-1.jpg) no-repeat center center/cover;
     }
     .middle .stories .story:nth-child(2){
-        background: url(./image/recuerdo-mama.jpg) no-repeat center center/cover;
+        background: url(./image/story-4.jpg) no-repeat center center/cover;
     }
     .middle .stories .story:nth-child(3){
-        background: url(./image/recurdo-cristina.jpg) no-repeat center center/cover;
+        background: url(./image/story-3.jpg) no-repeat center center/cover;
     }
     .middle .stories .story:nth-child(4){
-        background: url(./image/recurdo-jonathan.jpg) no-repeat center center/cover;
+        background: url(./image/story-5.jpg) no-repeat center center/cover;
     }
     .middle .stories .story:nth-child(5){
-        background: url(./image/recurdo-papa.jpg) no-repeat center center/cover;
+        background: url(./image/story-6.jpg) no-repeat center center/cover;
     }
     .middle .stories .story:nth-child(6){
-        background: url(./image/auri.jpg) no-repeat center center/cover;
+        background: url(./image/story-2.jpg) no-repeat center center/cover;
     }
 
     .middle .stories .profile-photo{
